@@ -1,0 +1,12 @@
+.bg-dt-purple {
+    background-color: rgb(55, 0, 72);
+}
+
+.navbar {
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+}
+
+.nav-logo {
+    height: 3em;
+}
